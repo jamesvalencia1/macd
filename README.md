@@ -8,3 +8,7 @@ The following modules should be installed in order to use the code
 * iexfinance
 * matplotlib
 * pandas
+* datetime
+
+# File
+* [macd.py](https://github.com/jamesvalencia1/macd/blob/master/macd.py)
